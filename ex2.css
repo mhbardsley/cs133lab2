@@ -1,0 +1,29 @@
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+  color: navy;
+}
+
+div#title {
+  background-color: orange;
+}
+
+div#mainContent {
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+  font-style: italic;
+}
+
+div#furtherContent {
+  font-family: "Courier New", Monospace;
+  font-style: oblique;
+}
+
+div#floater {
+    position: relative;
+    left: 200px;
+    top: 50px;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+  }
